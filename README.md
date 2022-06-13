@@ -7,7 +7,6 @@ The output is a probabilistic assessment of medical conditions possibly present 
 ## Motivations
 This project serves as a programmatic introduction to machine learning, and machine learning tools used in industry.
 ## Design
-The simple design is seen below.
-![Mock-Up Design](/images/lesion-app-mock-up.png)
+![Mock-Up Design](images/lesion-app-mock-up.png)
 ## Technologies
 The application will be written in Java, and TensorFlow will be used to produce a Machine Learning model.
